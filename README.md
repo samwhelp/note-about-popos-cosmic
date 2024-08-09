@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Popos Cosmic](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/budgie-config/full/budgie-config-plus-theme-dark) |
+| [Popos Cosmic Config](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/cosmic-config/Main) |
 
 
 
