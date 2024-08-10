@@ -25,3 +25,10 @@ has_children: true
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-popos-cosmic/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-popos-cosmic/read/config/mousebind.html) |
+
+
+
+
+## Source
+
+* cosmic-comp / data / [keybindings.ron](https://github.com/pop-os/cosmic-comp/blob/master/data/keybindings.ron)
