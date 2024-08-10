@@ -35,6 +35,16 @@ has_children: false
 
 
 
+## Font
+
+| Fira |
+| --- |
+| [Fira](https://mozilla.github.io/Fira/) |
+| GitHub / Mozilla / [Fira](https://github.com/mozilla/Fira) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
