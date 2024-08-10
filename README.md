@@ -47,6 +47,7 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Rust 探索筆記](https://samwhelp.github.io/note-about-rust/) | [GitHub](https://github.com/samwhelp/note-about-rust) |
 | [Just 探索筆記](https://samwhelp.github.io/note-about-just/) | [GitHub](https://github.com/samwhelp/note-about-just) |
+| [Fedora Cosmic 探索筆記](https://samwhelp.github.io/note-about-fedora-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-fedora-cosmic) |
 
 
 
