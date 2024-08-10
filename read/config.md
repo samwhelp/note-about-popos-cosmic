@@ -14,7 +14,7 @@ has_children: true
 
 | 微調腳本 |
 | -------- |
-| [Fedora Cosmic Config](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/cosmic-config/Main) |
+| [Popos Cosmic Config](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/cosmic-config/Main) |
 
 
 
