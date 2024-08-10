@@ -28,6 +28,13 @@ has_children: false
 
 
 
+## Theme
+
+* Catppuccin / [cosmic-desktop](https://github.com/catppuccin/cosmic-desktop)
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
