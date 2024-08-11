@@ -10,6 +10,14 @@ parent: 探索
 
 
 
+
+## Link
+
+* GitHub / pop-os / [cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+
+
+
+
 ## 初步探索
 
 執行
