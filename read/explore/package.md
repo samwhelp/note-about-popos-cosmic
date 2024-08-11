@@ -72,3 +72,74 @@ dpkg -S /usr/share/cosmic
 ```
 cosmic-applets, cosmic-bg, cosmic-comp, cosmic-panel, cosmic-settings, cosmic-settings-daemon: /usr/share/cosmic
 ```
+
+
+
+## Cosmic Package
+
+| Cosmic Package |
+| -------------- |
+| [pop-de-cosmic](pop-de-cosmic) |
+| [xdg-desktop-portal-cosmic](xdg-desktop-portal-cosmic) |
+
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-greeter](cosmic-greeter) |
+| [cosmic-greeter-daemon](cosmic-greeter-daemon) |
+| [cosmic-session](cosmic-session) |
+
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-comp](cosmic-comp) |
+| [cosmic-settings](cosmic-settings) |
+| [cosmic-settings-daemon](cosmic-settings-daemon) |
+
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-panel](cosmic-panel) |
+| [cosmic-applets](cosmic-applets) |
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-bg](cosmic-bg) |
+| [cosmic-notifications](cosmic-notifications) |
+| [cosmic-osd](cosmic-osd) |
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-launcher](cosmic-launcher) |
+| [cosmic-workspaces](cosmic-workspaces) |
+| [cosmic-app-library](cosmic-app-library) |
+| [cosmic-screenshot](cosmic-screenshot) |
+| [cosmic-randr](cosmic-randr) |
+
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-term](cosmic-term) |
+| [cosmic-files](cosmic-files) |
+| [cosmic-edit](cosmic-edit) |
+| [cosmic-store](cosmic-store) |
+
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-icons](cosmic-icons) |
+| [cosmic-wallpapers](cosmic-wallpapers) |

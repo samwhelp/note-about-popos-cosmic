@@ -50,3 +50,27 @@ dpkg -S /usr/share/cosmic
 ```
 cosmic-applets, cosmic-bg, cosmic-comp, cosmic-panel, cosmic-settings, cosmic-settings-daemon: /usr/share/cosmic
 ```
+
+
+
+執行
+
+``` sh
+dpkg -S /usr/share/cosmic
+```
+
+顯示
+
+```
+com.system76.CosmicAppList
+com.system76.CosmicBackground
+com.system76.CosmicPanel
+com.system76.CosmicPanel.Dock
+com.system76.CosmicPanel.Panel
+com.system76.CosmicSettings.Shortcuts
+com.system76.CosmicTheme.Dark
+com.system76.CosmicTheme.Dark.Builder
+com.system76.CosmicTheme.Light
+com.system76.CosmicTheme.Light.Builder
+com.system76.CosmicTheme.Mode
+```
