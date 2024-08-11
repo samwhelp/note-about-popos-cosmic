@@ -6,3 +6,8 @@ has_children: true
 
 
 # 探索
+
+| Cosmic         |
+| -------------- |
+| [Package](explore/package) |
+| [Command](explore/command) |
