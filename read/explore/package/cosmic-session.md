@@ -41,9 +41,13 @@ dpkg -L cosmic-session
 /usr/share/wayland-sessions/cosmic.desktop
 ```
 
+執行
+
 ``` sh
 apt-cache show cosmic-session
 ```
+
+顯示
 
 ```
 Package: cosmic-session
