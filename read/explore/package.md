@@ -79,67 +79,67 @@ cosmic-applets, cosmic-bg, cosmic-comp, cosmic-panel, cosmic-settings, cosmic-se
 
 | Cosmic Package |
 | -------------- |
-| [pop-de-cosmic](pop-de-cosmic) |
-| [xdg-desktop-portal-cosmic](xdg-desktop-portal-cosmic) |
+| [pop-de-cosmic](package/pop-de-cosmic) |
+| [xdg-desktop-portal-cosmic](package/xdg-desktop-portal-cosmic) |
 
 
 
 
 | Cosmic Package |
 | -------------- |
-| [cosmic-greeter](cosmic-greeter) |
-| [cosmic-greeter-daemon](cosmic-greeter-daemon) |
-| [cosmic-session](cosmic-session) |
+| [cosmic-greeter](package/cosmic-greeter) |
+| [cosmic-greeter-daemon](package/cosmic-greeter-daemon) |
+| [cosmic-session](package/cosmic-session) |
 
 
 
 
 | Cosmic Package |
 | -------------- |
-| [cosmic-comp](cosmic-comp) |
-| [cosmic-settings](cosmic-settings) |
-| [cosmic-settings-daemon](cosmic-settings-daemon) |
+| [cosmic-comp](package/cosmic-comp) |
+| [cosmic-settings](package/cosmic-settings) |
+| [cosmic-settings-daemon](package/cosmic-settings-daemon) |
 
 
 
 
 | Cosmic Package |
 | -------------- |
-| [cosmic-panel](cosmic-panel) |
-| [cosmic-applets](cosmic-applets) |
+| [cosmic-panel](package/cosmic-panel) |
+| [cosmic-applets](package/cosmic-applets) |
 
 
 
 | Cosmic Package |
 | -------------- |
-| [cosmic-bg](cosmic-bg) |
-| [cosmic-notifications](cosmic-notifications) |
-| [cosmic-osd](cosmic-osd) |
+| [cosmic-bg](package/cosmic-bg) |
+| [cosmic-notifications](package/cosmic-notifications) |
+| [cosmic-osd](package/cosmic-osd) |
 
 
 
 | Cosmic Package |
 | -------------- |
-| [cosmic-launcher](cosmic-launcher) |
-| [cosmic-workspaces](cosmic-workspaces) |
-| [cosmic-app-library](cosmic-app-library) |
-| [cosmic-screenshot](cosmic-screenshot) |
-| [cosmic-randr](cosmic-randr) |
-
-
-
-
-| Cosmic Package |
-| -------------- |
-| [cosmic-term](cosmic-term) |
-| [cosmic-files](cosmic-files) |
-| [cosmic-edit](cosmic-edit) |
-| [cosmic-store](cosmic-store) |
+| [cosmic-launcher](package/cosmic-launcher) |
+| [cosmic-workspaces](package/cosmic-workspaces) |
+| [cosmic-app-library](package/cosmic-app-library) |
+| [cosmic-screenshot](package/cosmic-screenshot) |
+| [cosmic-randr](package/cosmic-randr) |
 
 
 
 
 | Cosmic Package |
 | -------------- |
-| [cosmic-icons](cosmic-icons) |
-| [cosmic-wallpapers](cosmic-wallpapers) |
+| [cosmic-term](package/cosmic-term) |
+| [cosmic-files](package/cosmic-files) |
+| [cosmic-edit](package/cosmic-edit) |
+| [cosmic-store](package/cosmic-store) |
+
+
+
+
+| Cosmic Package |
+| -------------- |
+| [cosmic-icons](package/cosmic-icons) |
+| [cosmic-wallpapers](package/cosmic-wallpapers) |
