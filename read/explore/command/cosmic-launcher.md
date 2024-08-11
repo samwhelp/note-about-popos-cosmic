@@ -29,14 +29,13 @@ Options:
   -V, --version  Print version
 ```
 
-``` sh
-cosmic-launcher alt-tab
-```
-
+執行
 
 ``` sh
 cosmic-launcher help alt-tab 
 ```
+
+顯示
 
 ```
 Toggle the launcher and switch to the alt-tab view
@@ -46,4 +45,10 @@ Usage: cosmic-launcher alt-tab
 Options:
   -h, --help     Print help
   -V, --version  Print version
+```
+
+執行
+
+``` sh
+cosmic-launcher alt-tab
 ```

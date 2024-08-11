@@ -48,9 +48,13 @@ Options:
   -V, --version  Print version
 ```
 
+執行
+
 ``` sh
 cosmic-settings help panel
 ```
+
+顯示
 
 ```
 Panel settings page
