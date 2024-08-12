@@ -7,6 +7,11 @@ has_children: true
 
 # 設定
 
+* [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
+* [Default Schema](#default-schema)
+* [Source](#source)
+
 
 
 
@@ -25,18 +30,6 @@ has_children: true
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-popos-cosmic/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-popos-cosmic/read/config/mousebind.html) |
-
-
-
-
-## Source
-
-* cosmic-comp / data / [keybindings.ron](https://github.com/pop-os/cosmic-comp/blob/master/data/keybindings.ron)
-* cosmic-panel / data / [default_schema](https://github.com/pop-os/cosmic-panel/tree/master/data/default_schema)
-* cosmic-bg / data / [v1](https://github.com/pop-os/cosmic-bg/tree/master/data/v1)
-* cosmic-settings / resources / [default_schema](https://github.com/pop-os/cosmic-settings/tree/master/resources/default_schema)
-* cosmic-settings-daemon / data / [system_actions.ron](https://github.com/pop-os/cosmic-settings-daemon/blob/master/data/system_actions.ron)
-* cosmic-applets / cosmic-app-list / data / [default_schema](https://github.com/pop-os/cosmic-applets/tree/master/cosmic-app-list/data/default_schema/com.system76.CosmicAppList/v1)
 
 
 
@@ -81,3 +74,15 @@ com.system76.CosmicTheme.Light
 com.system76.CosmicTheme.Light.Builder
 com.system76.CosmicTheme.Mode
 ```
+
+
+
+
+## Source
+
+* cosmic-comp / data / [keybindings.ron](https://github.com/pop-os/cosmic-comp/blob/master/data/keybindings.ron)
+* cosmic-panel / data / [default_schema](https://github.com/pop-os/cosmic-panel/tree/master/data/default_schema)
+* cosmic-bg / data / [v1](https://github.com/pop-os/cosmic-bg/tree/master/data/v1)
+* cosmic-settings / resources / [default_schema](https://github.com/pop-os/cosmic-settings/tree/master/resources/default_schema)
+* cosmic-settings-daemon / data / [system_actions.ron](https://github.com/pop-os/cosmic-settings-daemon/blob/master/data/system_actions.ron)
+* cosmic-applets / cosmic-app-list / data / [default_schema](https://github.com/pop-os/cosmic-applets/tree/master/cosmic-app-list/data/default_schema/com.system76.CosmicAppList/v1)
