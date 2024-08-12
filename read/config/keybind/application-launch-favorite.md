@@ -10,6 +10,7 @@ grand_parent: 設定
 # 開啟應用程式 (常用的)
 
 * [常用的應用程式](#常用的應用程式)
+* [常用的應用程式 (預設)](#常用的應用程式-預設)
 
 
 
@@ -70,4 +71,40 @@ grand_parent: 設定
         key: "s",
         description: Some("System_Settings_1"),
     ): Spawn("cosmic-settings"),
+```
+
+
+
+
+## 常用的應用程式 (預設)
+
+| 按鍵組合          | 功能           | 執行指令                        |
+| ----------------- | -------------- | ------------------------------- |
+| `Super + f` | 開啟檔案管理器 | `xdg-open ~`                        |
+| `Super + b` | 開啟網頁瀏覽器 | `xdg-open http://` |
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L9)
+
+```
+    HomeFolder: "xdg-open ~",
+```
+
+
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L37)
+
+```
+    WebBrowser: "xdg-open http://",
+```
+
+
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L72-L73)
+
+```
+    (modifiers: [Super], key: "b"): System(WebBrowser),
+    (modifiers: [Super], key: "f"): System(HomeFolder),
 ```
