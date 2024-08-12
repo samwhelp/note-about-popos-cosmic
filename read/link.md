@@ -18,6 +18,17 @@ has_children: false
 
 
 
+## LibCosmic
+
+* [libcosmic-book](https://pop-os.github.io/libcosmic-book/)
+* GitHub / pop-os / [libcosmic](https://github.com/pop-os/libcosmic)
+* GitHub / pop-os / [cosmic-app-template](https://github.com/pop-os/cosmic-app-template)
+* [iced](https://iced.rs/)
+* GitHub / iced-rs / [iced](https://github.com/iced-rs/iced)
+
+
+
+
 ## Ron
 
 > Rusty Object Notation
