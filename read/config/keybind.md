@@ -14,6 +14,7 @@ parent: 設定
 ## 主題
 
 * [設定檔](#設定檔)
+* [開啟應用程式](#開啟應用程式)
 
 
 
@@ -35,3 +36,13 @@ parent: 設定
 | Custom Keybind Config File |
 | --- |
 | [~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom) |
+
+
+
+
+## 開啟應用程式
+
+| 主題 |
+| --- |
+| [開啟 Terminal](keybind/application-launch-terminal) |
+| [開啟常用的應用程式](keybind/application-launch-favorite) |
