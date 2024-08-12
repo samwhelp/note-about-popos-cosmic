@@ -15,6 +15,7 @@ parent: 設定
 
 * [設定檔](#設定檔)
 * [開啟應用程式](#開啟應用程式)
+* [視窗操作](#視窗操作)
 
 
 
@@ -46,3 +47,12 @@ parent: 設定
 | --- |
 | [開啟 Terminal](keybind/application-launch-terminal) |
 | [開啟常用的應用程式](keybind/application-launch-favorite) |
+
+
+
+
+## 視窗操作
+
+| 主題 |
+| --- |
+| [視窗基本操作](keybind/window-control) |
