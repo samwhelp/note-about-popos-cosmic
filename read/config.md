@@ -39,6 +39,13 @@ has_children: true
 * cosmic-applets / cosmic-app-list / data / [default_schema](https://github.com/pop-os/cosmic-applets/tree/master/cosmic-app-list/data/default_schema/com.system76.CosmicAppList/v1)
 
 
+
+
+## Default Schema
+
+* [/usr/share/cosmic](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic)
+
+
 執行
 
 ``` sh
