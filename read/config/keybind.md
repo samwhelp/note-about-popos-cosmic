@@ -8,13 +8,19 @@ parent: 設定
 
 # 按鍵綁定
 
-* [Default Schema](#default-schema)
-* [Custom Keybind Config File](#custom-keybind-config-file)
+
+
+
+## 主題
+
+* [設定檔](#設定檔)
 
 
 
 
-## Default Schema
+## 設定檔
+
+### Default Schema
 
 | Default Schema |
 | --- |
@@ -24,7 +30,7 @@ parent: 設定
 
 
 
-## Custom Keybind Config File
+### Custom Keybind Config File
 
 | Custom Keybind Config File |
 | --- |
