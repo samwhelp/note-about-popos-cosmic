@@ -10,6 +10,7 @@ grand_parent: 設定
 # 開啟應用程式 (Terminal)
 
 * [開啟 Terminal](#開啟-terminal)
+* [開啟 Terminal (預設)](#開啟-terminal-預設)
 
 
 
@@ -82,6 +83,8 @@ grand_parent: 設定
 
 
 
+
+## 開啟 Terminal (預設)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
