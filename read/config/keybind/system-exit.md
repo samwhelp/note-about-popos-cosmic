@@ -12,6 +12,21 @@ grand_parent: 設定
 
 
 
+## Subject
+
+* [Command](#command)
+* [Source](#source)
+
+
+
+
+## Command
+
+* [cosmic-osd](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/package/cosmic-osd.html)
+
+
+
+
 ## Source
 
 * cosmic-settings / resources / [default_schema](https://github.com/pop-os/cosmic-settings/tree/master/resources/default_schema)
