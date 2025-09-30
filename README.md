@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Popos Cosmic Config](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/cosmic-config/Main) |
+| [Popos Cosmic Config](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/cosmic-config/full/Main) |
 
 
 
