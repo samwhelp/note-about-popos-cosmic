@@ -12,6 +12,7 @@ parent: 探索
 | Command        |
 | -------------- |
 | [cosmic-settings](command/cosmic-settings) |
+| [cosmic-osd](command/cosmic-osd) |
 
 
 
