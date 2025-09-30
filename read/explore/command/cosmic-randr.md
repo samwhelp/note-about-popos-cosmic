@@ -29,6 +29,8 @@ Commands:
   list      List available output heads and modes
   mode      Set a mode for a display
   position  Set position of display
+  xwayland  Xwayland compatibility options
+  kdl       List of output configurations to apply in KDL format Read via stdin
   help      Print this message or the help of the given subcommand(s)
 
 Options:
