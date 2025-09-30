@@ -21,13 +21,15 @@ cosmic-launcher --help
 Usage: cosmic-launcher [COMMAND]
 
 Commands:
-  alt-tab  Toggle the launcher and switch to the alt-tab view
-  help     Print this message or the help of the given subcommand(s)
+  alt-tab        Toggle the launcher and switch to the alt-tab view
+  shift-alt-tab  Toggle the launcher and switch to the alt-tab view
+  help           Print this message or the help of the given subcommand(s)
 
 Options:
   -h, --help     Print help
   -V, --version  Print version
 ```
+
 
 執行
 
