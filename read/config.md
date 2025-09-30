@@ -48,7 +48,7 @@ dpkg -S /usr/share/cosmic
 顯示
 
 ```
-cosmic-applets, cosmic-bg, cosmic-comp, cosmic-panel, cosmic-settings, cosmic-settings-daemon: /usr/share/cosmic
+cosmic-applets, cosmic-bg, pop-de-cosmic, cosmic-comp, cosmic-panel, cosmic-settings, cosmic-initial-setup, cosmic-settings-daemon: /usr/share/cosmic
 ```
 
 
