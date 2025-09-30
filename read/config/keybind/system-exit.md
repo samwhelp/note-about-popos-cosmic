@@ -22,7 +22,7 @@ grand_parent: 設定
 
 ## Command
 
-* [cosmic-osd](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/package/cosmic-osd.html)
+* [cosmic-osd](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-osd.html)
 
 
 
