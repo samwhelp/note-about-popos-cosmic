@@ -56,7 +56,7 @@ cosmic-applets, cosmic-bg, cosmic-comp, cosmic-panel, cosmic-settings, cosmic-se
 執行
 
 ``` sh
-dpkg -S /usr/share/cosmic
+ls -1 /usr/share/cosmic
 ```
 
 顯示
@@ -68,11 +68,14 @@ com.system76.CosmicPanel
 com.system76.CosmicPanel.Dock
 com.system76.CosmicPanel.Panel
 com.system76.CosmicSettings.Shortcuts
+com.system76.CosmicSettings.WindowRules
 com.system76.CosmicTheme.Dark
 com.system76.CosmicTheme.Dark.Builder
 com.system76.CosmicTheme.Light
 com.system76.CosmicTheme.Light.Builder
 com.system76.CosmicTheme.Mode
+com.system76.CosmicTk
+cosmic-themes
 ```
 
 
