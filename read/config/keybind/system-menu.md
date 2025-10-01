@@ -9,6 +9,19 @@ grand_parent: 設定
 
 # 系統選單
 
+
+
+
+## 主題
+
+* [功能](#功能)
+* [相關指令](#相關指令)
+
+
+
+
+## 功能
+
 * [開啟「應用程式主選單」](#開啟應用程式主選單)
 * [開啟「應用程式啟動選單」](#開啟應用程式啟動選單)
 * [開啟「工作空間切換選單」](#開啟工作空間切換選單)
@@ -22,13 +35,6 @@ grand_parent: 設定
 | --------- | ---------- | ----------------------------- |
 | `Alt + F1` | 開啟「應用程式主選單」 | `System(AppLibrary)` (cosmic 內建) |
 | `Win + grave` | 開啟「應用程式主選單」 | `System(AppLibrary)` (cosmic 內建) |
-
-
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L3)
-
-```
-    AppLibrary: "cosmic-app-library",
-```
 
 
 * 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L82-L87)
@@ -49,6 +55,13 @@ grand_parent: 設定
 ```
 
 
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L3)
+
+```
+    AppLibrary: "cosmic-app-library",
+```
+
+
 
 
 ## 開啟「應用程式啟動選單」
@@ -58,17 +71,7 @@ grand_parent: 設定
 | `Alt + F2` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
 
 
-
 > `grave` 指的是「`」，在「~」底下。
-
-
-
-
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L19)
-
-```
-    Launcher: "cosmic-launcher",
-```
 
 
 * 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L31-L42)
@@ -83,6 +86,13 @@ grand_parent: 設定
 ```
 
 
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L19)
+
+```
+    Launcher: "cosmic-launcher",
+```
+
+
 
 
 ## 開啟「工作空間切換選單」
@@ -90,17 +100,6 @@ grand_parent: 設定
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
 | `Win + Tab` | 開啟「工作空間切換選單」 | `System(WorkspaceOverview)` (cosmic 內建) |
-
-
-
-
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L51)
-
-```
-    WorkspaceOverview: "cosmic-workspaces",
-```
-
-
 
 
 * 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L43-L48)
@@ -113,3 +112,19 @@ grand_parent: 設定
         key: "Tab",
     ): System(WorkspaceOverview),
 ```
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L51)
+
+```
+    WorkspaceOverview: "cosmic-workspaces",
+```
+
+
+
+
+## 相關指令
+
+* [cosmic-app-library](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-app-library.html)
+* [cosmic-launcher](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-launcher.html)
+* [cosmic-workspace](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-workspace.html)
