@@ -26,11 +26,6 @@ parent: 如何
 | `Win`     | 開啟「應用程式主選單」 | `cosmic-launcher`                 |
 
 
-| 按鍵組合          | 功能         | 執行指令                     |
-| ----------------- | ------------- | --------------------------- |
-| `Win + t`     | 開啟 Terminal | `cosmic-term`                 |
-
-
 * 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L106)
 
 ```
