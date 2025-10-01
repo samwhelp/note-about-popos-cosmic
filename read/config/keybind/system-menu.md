@@ -127,4 +127,4 @@ grand_parent: 設定
 
 * [cosmic-app-library](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-app-library.html)
 * [cosmic-launcher](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-launcher.html)
-* [cosmic-workspace](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-workspace.html)
+* [cosmic-workspaces](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-workspaces.html)
