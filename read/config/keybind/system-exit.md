@@ -15,8 +15,8 @@ grand_parent: 設定
 ## 主題
 
 * [功能](#功能)
-* [Command](#command)
-* [Source](#source)
+* [相關指令](#相關指令)
+* [相關連結](#相關連結)
 
 
 
@@ -126,14 +126,14 @@ grand_parent: 設定
 
 
 
-## Command
+## 相關指令
 
 * [cosmic-osd](https://samwhelp.github.io/note-about-popos-cosmic/read/explore/command/cosmic-osd.html)
 
 
 
 
-## Source
+## 相關連結
 
 * cosmic-comp / data / [keybindings.ron](https://github.com/pop-os/cosmic-comp/blob/master/data/keybindings.ron)
 * cosmic-settings-daemon / data / [system_actions.ron](https://github.com/pop-os/cosmic-settings-daemon/blob/master/data/system_actions.ron)
