@@ -34,6 +34,8 @@
 
 ## 按鍵綁定
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-popos-cosmic/read/cheatsheet/keybind.html)
+
 | 按鍵綁定 |
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-popos-cosmic/read/config/keybind.html) |
