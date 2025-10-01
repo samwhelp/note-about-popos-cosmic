@@ -14,7 +14,6 @@ has_children: true
 
 * [滑鼠按鍵綁定](#滑鼠按鍵綁定)
 * [鍵盤按鍵綁定](#鍵盤按鍵綁定)
-* [外觀設定](#外觀設定)
 * [相關連結](#相關連結)
 
 
@@ -36,15 +35,6 @@ has_children: true
 | ----------- |
 | [停用按鍵綁定「Super」開啟「Main Menu」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/disable-keybind-open-main-menu.html) |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-keybind.html) |
-
-
-
-
-## 外觀設定
-
-| 外觀設定 |
-| ------- |
-| [設定「Application Appearance」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-application-appearance.html) |
 
 
 
