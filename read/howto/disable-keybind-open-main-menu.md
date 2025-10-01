@@ -23,7 +23,26 @@ parent: 如何
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Win`     | 開啟「應用程式主選單」 | `cosmic-app-library`                 |
+| `Win`     | 開啟「應用程式主選單」 | `cosmic-launcher`                 |
+
+
+| 按鍵組合          | 功能         | 執行指令                     |
+| ----------------- | ------------- | --------------------------- |
+| `Win + t`     | 開啟 Terminal | `cosmic-term`                 |
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L106)
+
+```
+    (modifiers: [Super]): System(Launcher),
+```
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L19)
+
+```
+    Launcher: "cosmic-launcher",
+```
 
 
 
