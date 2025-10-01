@@ -25,8 +25,10 @@ parent: 設定
 
 ### Default Schema
 
+> 預設的按鍵綁定，相關的設定檔如下
+
 | Default Schema |
-| --- |
+| -------------- |
 | [/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults) |
 | [/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions)
 
@@ -35,8 +37,10 @@ parent: 設定
 
 ### Custom Keybind Config File
 
+> 個人修改後的按鍵綁定，相關的設定檔如下
+
 | Custom Keybind Config File |
-| --- |
+| -------------------------- |
 | [~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom) |
 
 
