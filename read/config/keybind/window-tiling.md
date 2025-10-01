@@ -11,9 +11,9 @@ grand_parent: 設定
 
 * [切換整體視窗狀態](#切換整體視窗狀態)
 * [切換單一視窗狀態](#切換單一視窗狀態)
+* [視窗平鋪導向](#視窗平鋪導向)
 * [視窗合併或解離](#視窗合併或解離)
 * [視窗固定](#視窗固定)
-* [視窗平鋪導向](#視窗平鋪導向)
 
 
 
@@ -67,6 +67,25 @@ grand_parent: 設定
 
 
 
+## 視窗平鋪導向
+
+| 按鍵組合          | 功能     | 執行指令         |
+| ----------------- | -------- | ---------------- |
+| `Win + o`         | 視窗平鋪導向 | `ToggleOrientation` (cosmic 內建) |
+
+
+> 切換視窗平鋪導向。
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L82)
+
+```
+    (modifiers: [Super], key: "o"): ToggleOrientation,
+```
+
+
+
+
 ## 視窗合併或解離
 
 | 按鍵組合  | 功能       | 執行指令                      |
@@ -110,23 +129,4 @@ grand_parent: 設定
         ],
         key: "t",
     ): ToggleSticky,
-```
-
-
-
-
-## 視窗平鋪導向
-
-| 按鍵組合          | 功能     | 執行指令         |
-| ----------------- | -------- | ---------------- |
-| `Win + o`         | 視窗平鋪導向 | `ToggleOrientation` (cosmic 內建) |
-
-
-> 切換視窗平鋪導向。
-
-
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L82)
-
-```
-    (modifiers: [Super], key: "o"): ToggleOrientation,
 ```
