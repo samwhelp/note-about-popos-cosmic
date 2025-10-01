@@ -13,6 +13,8 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [概覽](#概覽)
+* [如何](#如何)
 * [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
 
@@ -24,6 +26,27 @@
 | 微調腳本 |
 | -------- |
 | [Popos Cosmic Config](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/cosmic-config/full/Main) |
+
+
+
+
+## 概覽
+
+| [概覽](https://samwhelp.github.io/note-about-popos-cosmic/read/guide.html) |
+| ----------------- |
+| [如何微調](https://samwhelp.github.io/note-about-popos-cosmic/read/guide/customize.html) |
+| [工作流程](https://samwhelp.github.io/note-about-popos-cosmic/read/guide/workflow.html) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-popos-cosmic/read/howto.html) |
+| ------- |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super」開啟「Main Menu」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/disable-keybind-open-main-menu.html) |
+| [設定「按鍵綁定」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-keybind.html) |
 
 
 
