@@ -9,4 +9,4 @@ parent: 如何
 # 設定「按鍵綁定 (Keybind)」
 
 
-> 請參考「如何 / [設定「按鍵綁定」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-keybind.html)」
+> 請參考「設定 / 按鍵綁定 / [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-popos-cosmic/read/config/keybind.html)」
