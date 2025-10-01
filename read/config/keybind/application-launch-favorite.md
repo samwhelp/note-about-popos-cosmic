@@ -82,7 +82,7 @@ grand_parent: 設定
 | ----------------- | -------------- | ------------------------------- |
 | `Super + f` | 開啟檔案管理器 | `xdg-open ~`                        |
 | `Super + b` | 開啟網頁瀏覽器 | `xdg-open http://` |
-| `Super + t` | 開啟網頁瀏覽器 | `cosmic-term` |
+| `Super + t` | 開啟終端機     | `cosmic-term` |
 
 
 * 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L11)
@@ -117,4 +117,51 @@ grand_parent: 設定
     (modifiers: [Super], key: "b"): System(WebBrowser),
     (modifiers: [Super], key: "f"): System(HomeFolder),
     (modifiers: [Super], key: "t"): System(Terminal),
+```
+
+
+
+> 不過目前「`Super + t`」被我停用了
+
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L64-L69)
+
+```
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "b",
+    ): Disable,
+```
+
+
+
+
+> 而「`Super + f`」改成「`Fullscreen`」
+
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L206-L211)
+
+```
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "f",
+    ): Fullscreen,
+```
+
+
+
+
+> 而「`Super + t`」改成「`ToggleSticky`」
+
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L173-L178)
+
+```
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+    ): ToggleSticky,
 ```
