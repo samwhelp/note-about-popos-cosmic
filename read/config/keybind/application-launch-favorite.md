@@ -82,9 +82,10 @@ grand_parent: 設定
 | ----------------- | -------------- | ------------------------------- |
 | `Super + f` | 開啟檔案管理器 | `xdg-open ~`                        |
 | `Super + b` | 開啟網頁瀏覽器 | `xdg-open http://` |
+| `Super + t` | 開啟網頁瀏覽器 | `cosmic-term` |
 
 
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L9)
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L11)
 
 ```
     HomeFolder: "xdg-open ~",
@@ -93,7 +94,7 @@ grand_parent: 設定
 
 
 
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L37)
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L45)
 
 ```
     WebBrowser: "xdg-open http://",
@@ -102,9 +103,18 @@ grand_parent: 設定
 
 
 
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L72-L73)
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L37)
+
+```
+    Terminal: "cosmic-term",
+```
+
+
+
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L98-L101)
 
 ```
     (modifiers: [Super], key: "b"): System(WebBrowser),
     (modifiers: [Super], key: "f"): System(HomeFolder),
+    (modifiers: [Super], key: "t"): System(Terminal),
 ```
