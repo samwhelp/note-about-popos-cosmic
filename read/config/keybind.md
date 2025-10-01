@@ -68,3 +68,4 @@ parent: 設定
 | --- |
 | [視窗基本操作](keybind/window-control) |
 | [視窗平鋪操作](keybind/window-tiling) |
+| [視窗聚焦切換](keybind/window-focus) |
