@@ -52,7 +52,7 @@ parent: 一覽表
 | `Alt + F1`  | `開啟「應用程式啟動主選單(Main Menu)」`  | `cosmic-app-library` |
 | `Alt + F2`  | `開啟「應用程式啟動器(Runner)」`        | `cosmic-launcher`  |
 
-> 在『[停用按鍵綁定「Super」開啟「Main Menu」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/disable-keybind-open-main-menu.html)』這篇有提到原本預設是綁定「`Super`」，只是這個設定，測試結果，只能設定單一按鍵。為了避免干擾，所以被我停用了。
+> 在『[停用按鍵綁定「Super」開啟「Main Menu」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/disable-keybind-open-main-menu.html)』這篇有提到原本預設是綁定「`Super`」。為了避免干擾，所以被我停用了。
 
 
 
