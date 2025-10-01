@@ -1,6 +1,6 @@
 ---
 title: 視窗平鋪
-nav_order: 5020
+nav_order: 5021
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定
