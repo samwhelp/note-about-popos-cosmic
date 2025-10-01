@@ -67,4 +67,4 @@ parent: 設定
 | 主題 |
 | --- |
 | [視窗基本操作](keybind/window-control) |
-| [視窗平鋪操作](keybind/window-control) |
+| [視窗平鋪操作](keybind/window-tiling) |
