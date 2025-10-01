@@ -10,6 +10,7 @@ grand_parent: 設定
 # 視窗基本操作
 
 * [關閉視窗](#關閉視窗)
+* [全螢幕](#全螢幕)
 * [最大化](#最大化)
 * [最小化](#最小化)
 
@@ -26,23 +27,31 @@ grand_parent: 設定
 > 一般「關閉視窗」的按鍵綁定是在「`Alt + F4`」。
 
 
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults#L6)
+
+```
+    (modifiers: [Super], key: "q"): Close,
+```
 
 
-* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L67-L78)
+
+
+## 全螢幕
+
+| 按鍵組合  | 功能       | 執行指令                      |
+| --------- | ---------- | ----------------------------- |
+| `Win + f` | 全螢幕 | `Fullscreen` (cosmic 內建) |
+
+
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L230-L235)
 
 ```
     (
         modifiers: [
-            Alt,
-        ],
-        key: "F4",
-    ): Close,
-    (
-        modifiers: [
             Super,
         ],
-        key: "q",
-    ): Close,
+        key: "f",
+    ): Fullscreen,
 ```
 
 
@@ -58,9 +67,7 @@ grand_parent: 設定
 > 也可以在「視窗標題列」，使用「滑鼠左鍵」，點選兩下，切換視窗最大化。
 
 
-
-
-* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L79-L84)
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L236-L241)
 
 ```
     (
@@ -78,15 +85,13 @@ grand_parent: 設定
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
-| `Win + x` | 最大化 | `Minimize` (cosmic 內建) |
+| `Win + x` | 最小化 | `Minimize` (cosmic 內建) |
 
 
 > 也可以在「視窗標題列」，找到「最小化」按鈕。
 
 
-
-
-* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L85-L90)
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L242-L247)
 
 ```
     (
