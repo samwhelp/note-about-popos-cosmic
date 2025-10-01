@@ -46,6 +46,7 @@ parent: 設定
 
 | 主題 |
 | --- |
+| [離開](keybind/system-exit) |
 | [系統選單](keybind/system-menu) |
 
 

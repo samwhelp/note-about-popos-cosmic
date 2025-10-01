@@ -1,5 +1,5 @@
 ---
-title: Exit
+title: 離開
 nav_order: 5001
 has_children: false
 parent: 按鍵綁定
@@ -7,12 +7,12 @@ grand_parent: 設定
 ---
 
 
-# Exit
+# 離開
 
 
 
 
-## Subject
+## 主題
 
 * [Command](#command)
 * [Source](#source)
