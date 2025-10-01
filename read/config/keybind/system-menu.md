@@ -21,8 +21,7 @@ grand_parent: 設定
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
 | `Alt + F1` | 開啟「應用程式主選單」 | `System(AppLibrary)` (cosmic 內建) |
-
-
+| `Win + grave` | 開啟「應用程式主選單」 | `System(AppLibrary)` (cosmic 內建) |
 
 
 * 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L3)
@@ -32,9 +31,7 @@ grand_parent: 設定
 ```
 
 
-
-
-* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L79-L84)
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L82-L87)
 
 ```
     (
@@ -42,6 +39,12 @@ grand_parent: 設定
             Alt,
         ],
         key: "F1",
+    ): System(AppLibrary),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "grave",
     ): System(AppLibrary),
 ```
 
@@ -53,7 +56,7 @@ grand_parent: 設定
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
 | `Alt + F2` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
-| `Win + grave` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
+
 
 
 > `grave` 指的是「`」，在「~」底下。
@@ -61,13 +64,11 @@ grand_parent: 設定
 
 
 
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L15)
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L19)
 
 ```
     Launcher: "cosmic-launcher",
 ```
-
-
 
 
 * 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L31-L42)
@@ -78,12 +79,6 @@ grand_parent: 設定
             Alt,
         ],
         key: "F2",
-    ): System(Launcher),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "grave",
     ): System(Launcher),
 ```
 
@@ -99,7 +94,7 @@ grand_parent: 設定
 
 
 
-* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L41)
+* 設定片段：[/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/sample/default-schema/Main/asset/overlay/usr/share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/system_actions#L51)
 
 ```
     WorkspaceOverview: "cosmic-workspaces",
