@@ -45,6 +45,7 @@ has_children: true
 | 外觀設定 |
 | ------- |
 | [設定「Application Appearance」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-application-appearance.html) |
+| [設定「Cosmic Theme」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-cosmic-theme.html) |
 
 
 

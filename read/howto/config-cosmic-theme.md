@@ -30,7 +30,7 @@ cosmic-settings appearance
 > 執行「`grep '^Exec=' /usr/share/applications/com.system76.CosmicSettings.Appearance.desktop`」可以找到上面的指令。
 
 
-> 若是直接啟動「`cosmic-settings`」，則是要切換到分頁「`System Settings / Desktop / Appearance`」，在這個頁面右上方，有兩個按鈕「Import」和「Export」。
+> 若是直接啟動「`cosmic-settings`」，則是要切換到分頁「`System Settings / Desktop / Appearance`」，在這個頁面右上方，有兩個按鈕「`Import`」和「`Export`」。
 
 
 
