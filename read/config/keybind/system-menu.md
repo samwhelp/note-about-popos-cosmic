@@ -37,6 +37,9 @@ grand_parent: 設定
 | `Win + grave` | 開啟「應用程式主選單」 | `System(AppLibrary)` (cosmic 內建) |
 
 
+> `grave` 指的是「`」，在「~」底下。
+
+
 * 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L92-L93)
 
 ```
@@ -69,12 +72,10 @@ grand_parent: 設定
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
 | `Alt + F2` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
+| `Super + Space` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
 
 
-> `grave` 指的是「`」，在「~」底下。
-
-
-* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L94-L99)
+* 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L94-L105)
 
 ```
     (
@@ -82,6 +83,12 @@ grand_parent: 設定
             Alt,
         ],
         key: "F2",
+    ): System(Launcher),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "space",
     ): System(Launcher),
 ```
 
