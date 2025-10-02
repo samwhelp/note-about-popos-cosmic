@@ -71,3 +71,26 @@ org.gnome.desktop.interface icon-theme 'Cosmic'
 org.gnome.desktop.sound theme-name 'freedesktop'
 org.gnome.desktop.wm.preferences theme 'Adwaita'
 ```
+
+
+
+
+## Themes
+
+
+### icon-theme / package
+
+> Run: `apt-cache search icon-theme`
+
+
+> Search: [icon-theme](https://packages.ubuntu.com/search?keywords=icon-theme&searchon=names)
+
+* [papirus-icon-theme](https://packages.ubuntu.com/noble/papirus-icon-theme)
+* [numix-icon-theme](https://packages.ubuntu.com/noble/numix-icon-theme)
+* [numix-icon-theme-circle](https://packages.ubuntu.com/noble/numix-icon-theme-circle)
+
+
+### icon-theme / source
+
+* [GreyStone](https://github.com/SethStormR/GreyStone)
+* [Delight-2](https://github.com/SethStormR/Delight-2)
