@@ -1,6 +1,6 @@
 ---
 title: 設定「Cosmic Theme」
-nav_order: 7041
+nav_order: 7040
 has_children: false
 parent: 如何
 ---

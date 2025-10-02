@@ -61,8 +61,8 @@
 | [設定「按鍵綁定」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-keybind.html) |
 | [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-mouse-button-modifier.html) |
 | [停用按鍵綁定「Super」開啟「Main Menu」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/disable-keybind-open-main-menu.html) |
-| [設定「Application Appearance」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-application-appearance.html) |
 | [設定「Cosmic Theme」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-cosmic-theme.html) |
+| [設定「Application Appearance」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-application-appearance.html) |
 | [設定「Wallpaper」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/config-wallpaper.html) |
 
 
