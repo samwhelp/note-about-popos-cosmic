@@ -55,6 +55,17 @@ parent: 一覽表
 > 在『[停用按鍵綁定「Super」開啟「Main Menu」](https://samwhelp.github.io/note-about-popos-cosmic/read/howto/disable-keybind-open-main-menu.html)』這篇有提到原本預設是綁定「`Super`」。為了避免干擾，所以被我停用了。
 
 
+> 另外一組按鍵綁定
+
+| 按鍵組合     | 功能                                 | 設定項目                                                |
+| ----------- | ----------------------------------- | ----------------------------------------------------- |
+| `Win + grave`  | `開啟「應用程式啟動主選單(Main Menu)」`  | `cosmic-app-library` |
+| `Win + space`  | `開啟「應用程式啟動器(Runner)」`        | `cosmic-launcher`  |
+
+
+> `grave` 指的是「`」，在「~」底下。
+
+
 
 
 ## 開啟應用程式 / Terminal
@@ -133,13 +144,9 @@ parent: 一覽表
 
 ## 切換 / 概覽
 
-
 | 按鍵組合   | 功能                  | 執行指令                            |
 | ---------- | --------------------- | ----------------------------------- |
 | `Win + Tab`  | 工作空間視窗概覽  | `cosmic-workspaces`   |
-| `Win + grave`  | `開啟「應用程式啟動主選單(Main Menu)」`  | `cosmic-app-library` |
-
-> `grave` 指的是「`」，在「~」底下。
 
 
 

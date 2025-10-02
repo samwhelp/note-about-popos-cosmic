@@ -72,7 +72,7 @@ grand_parent: 設定
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
 | `Alt + F2` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
-| `Super + Space` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
+| `Win + space` | 開啟「應用程式啟動選單」 | `System(Launcher)` (cosmic 內建) |
 
 
 * 設定片段：[~/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom](https://github.com/samwhelp/popos-cosmic-adjustment/blob/main/prototype/main/cosmic-config/full/Main/asset/overlay/etc/skel/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom#L94-L105)
