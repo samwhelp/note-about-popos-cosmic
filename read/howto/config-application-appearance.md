@@ -37,7 +37,7 @@ gsettings set org.gnome.desktop.interface cursor-theme 'breeze_cursors'
 
 選擇「`Desktop appearance...`」，就會出現一個「設定程式」。
 
-也就是透過「cosmic-settings appearance」這個「圖形使用者介面程式」來操作
+也就是透過「`cosmic-settings appearance`」這個「圖形使用者介面程式」來操作
 
 ``` sh
 cosmic-settings appearance
