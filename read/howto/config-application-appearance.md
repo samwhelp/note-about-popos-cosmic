@@ -11,6 +11,16 @@ parent: 如何
 
 
 
+## 主題
+
+* [執行指令](#執行指令)
+* [圖形使用者介面操作](#圖形使用者介面操作)
+* [如何探索](#如何探索)
+* [相關連結](#相關連結)
+
+
+
+
 ## 執行指令
 
 舉例如下：
@@ -24,6 +34,8 @@ gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
 gsettings set org.gnome.desktop.interface cursor-theme 'breeze_cursors'
 
 ```
+
+
 
 
 ## 圖形使用者介面操作
@@ -71,6 +83,13 @@ org.gnome.desktop.interface icon-theme 'Cosmic'
 org.gnome.desktop.sound theme-name 'freedesktop'
 org.gnome.desktop.wm.preferences theme 'Adwaita'
 ```
+
+
+
+
+## 相關連結
+
+* Cosmic Desktop / [Theming](https://system76.com/cosmic/theming)
 
 
 

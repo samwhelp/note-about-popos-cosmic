@@ -10,6 +10,15 @@ parent: 如何
 
 
 
+
+## 主題
+
+* [圖形使用者介面操作](#圖形使用者介面操作)
+* [相關連結](#相關連結)
+
+
+
+
 ## 圖形使用者介面操作
 
 可以在「桌面」按下「滑鼠右鍵」，會出現一個選單，
@@ -35,8 +44,9 @@ cosmic-settings appearance
 
 
 
-## Link
+## 相關連結
 
+* Cosmic Desktop / [Theming](https://system76.com/cosmic/theming)
 * [https://cosmic-themes.org/](https://cosmic-themes.org/) ([GitHub](https://github.com/Fingel/cosmic-themes-org-py))
 * GitHub / SethStormR / [Delight-2](https://github.com/SethStormR/Delight-2) / [Delight-2.ron](https://github.com/SethStormR/Delight-2/blob/main/Delight-2.ron)
 * GitHub / SethStormR / [Droid](https://github.com/SethStormR/Droid) / [Droid.ron](https://github.com/SethStormR/Droid/blob/main/Droid.ron)
