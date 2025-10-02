@@ -90,6 +90,13 @@ org.gnome.desktop.wm.preferences theme 'Adwaita'
 * [numix-icon-theme-circle](https://packages.ubuntu.com/noble/numix-icon-theme-circle)
 
 
+執行下面指令安裝
+
+``` sh
+sudo apt-get install papirus-icon-theme numix-icon-theme numix-icon-theme-circle
+```
+
+
 ### icon-theme / source
 
 * [GreyStone](https://github.com/SethStormR/GreyStone)
