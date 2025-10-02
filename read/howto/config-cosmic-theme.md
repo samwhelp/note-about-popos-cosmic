@@ -51,3 +51,4 @@ cosmic-settings appearance
 * GitHub / SethStormR / [Delight-2](https://github.com/SethStormR/Delight-2) / [Delight-2.ron](https://github.com/SethStormR/Delight-2/blob/main/Delight-2.ron)
 * GitHub / SethStormR / [Droid](https://github.com/SethStormR/Droid) / [Droid.ron](https://github.com/SethStormR/Droid/blob/main/Droid.ron)
 * GitHub / SethStormR / [Cosmic-DE-Robot-theme](https://github.com/SethStormR/Cosmic-DE-Robot-theme) / [Dark.ron](https://github.com/SethStormR/Cosmic-DE-Robot-theme/blob/main/Dark.ron)
+* Catppuccin / [cosmic-desktop](https://github.com/catppuccin/cosmic-desktop)
