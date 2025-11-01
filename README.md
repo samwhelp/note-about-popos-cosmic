@@ -6,7 +6,7 @@
 | ---- | ------ |
 | [Popos Cosmic Adjustment](https://samwhelp.github.io/popos-cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/popos-cosmic-adjustment) |
 | [Popos Cosmic 探索筆記](https://samwhelp.github.io/note-about-popos-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-popos-cosmic) |
-| [Popos 探索筆記](https://samwhelp.github.io/note-about-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-cosmic) |
+| [Popos 探索筆記](https://samwhelp.github.io/note-about-popos/) | [GitHub](https://github.com/samwhelp/note-about-popos) |
 
 
 
